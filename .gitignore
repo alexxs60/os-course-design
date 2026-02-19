@@ -1,0 +1,24 @@
+# Python 常见忽略
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.dat
+virtual_disk.dat
+*.zip
+os_project*.zip
+
+# 编辑器/IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 临时文件
+*.log
+*.tmp
+temp*
